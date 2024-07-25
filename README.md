@@ -1,2 +1,9 @@
 # fancontrol
-STC15F104E,BL2717 Brushless motor fan control
+无刷电机: BL2717
+MCU: STC15F104E
+
+一个用于风扇改无刷电机的简单控制代码.
+实现了旋转编码器左右旋转调节PWM, 单击开关风扇,长按进入退出自然风模式.
+电路图仅供参考.
+
+
